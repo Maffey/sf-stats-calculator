@@ -1,0 +1,11 @@
+[package]
+name = "sf-stats-calculator"
+version = "0.1.0"
+edition = "2021"
+authors = ["Mateusz Kuniczuk"]
+license = "MIT"
+description = "A simple calculator to summarize recommended attributes values for game Shakes & Fidget."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
